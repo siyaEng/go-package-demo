@@ -1,4 +1,4 @@
-## 基本使用
+### 基本使用
 
 ```
 func main() {
@@ -20,5 +20,4 @@ func main() {
 }
 ```
 
-## 包原始地址
-package [BurntSushi/toml](https://github.com/BurntSushi/toml)
+### 包原始地址 [BurntSushi/toml](https://github.com/BurntSushi/toml)
