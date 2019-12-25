@@ -20,5 +20,5 @@ func main() {
 
 ```
 
-### 包原始地址 [go-sql-driver/mysql](https://github.com/go-sql-driver/mysql)
-### 文档 [go-sql-driver/mysql](https://godoc.org/github.com/go-sql-driver/mysql)
+### [包原始地址](https://github.com/go-sql-driver/mysql)
+### [文档](https://godoc.org/github.com/go-sql-driver/mysql)
