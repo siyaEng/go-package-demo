@@ -8,3 +8,6 @@ go-package 使用方法
 
 ### web框架
 [go-martini/martini](https://github.com/siyaEng/go-package-demo/blob/master/go-martini/martini/README.md) web框架【待补充】
+
+### orm
+[go-xorm/xorm](https://github.com/siyaEng/go-package-demo/blob/master/go-xorm/xorm/README.md)【待补充】
