@@ -16,3 +16,10 @@ go-package 使用方法
 
 ### log
 [cihub/seelog](https://github.com/siyaEng/go-package-demo/blob/master/cihub/seelog/README.md)【待补充】
+
+### nes 模拟器
+[fogleman/nes](https://github.com/siyaEng/go-package-demo/blob/master/fogleman/nes/README.md)
+
+### mac 终端命令
+iTerm2 + Oh My Zsh 打造舒适终端体验
+[sirius1024/iterm2-with-oh-my-zsh](https://github.com/sirius1024/iterm2-with-oh-my-zsh)
