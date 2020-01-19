@@ -2,8 +2,8 @@ package main
 
 import (
 	_ "github.com/jinzhu/gorm/dialects/mysql"
-	"go-package-demo/jinzhu/gorm/model"
-	"go-package-demo/jinzhu/gorm/mysql"
+	"go-package-demo/pkg/jinzhu/gorm/model"
+	"go-package-demo/pkg/jinzhu/gorm/mysql"
 	"log"
 	"os"
 	"os/signal"
@@ -25,7 +25,6 @@ func main() {
 	product.Update()
 	//product.Delete()
 
-
 	graceShutDown()
 
 }
@@ -43,5 +42,3 @@ func graceShutDown() {
 	*/
 	mysql.MysqlPool.Close()
 }
-
-

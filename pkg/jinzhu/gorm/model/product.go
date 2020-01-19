@@ -2,7 +2,7 @@ package model
 
 import (
 	"github.com/jinzhu/gorm"
-	"go-package-demo/jinzhu/gorm/mysql"
+	"go-package-demo/pkg/jinzhu/gorm/mysql"
 )
 
 type Product struct {
